@@ -38,7 +38,7 @@ Your installation is completed and you are all set to use the API.
 
 ## Contributing
 
-To contribute to Gist, fork the repository, create a new branch and send us a pull request.
+To contribute to the project, fork the repository, create a new branch, and send us a pull request.
 
 Also, thanks for contributing to Open-source!
 
