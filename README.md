@@ -45,7 +45,7 @@ Also, thanks for contributing to Open-source!
 
 ## License
 
-Text_Summarization is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Text_Summarizer/LICENSE) file for more information.
+Text_Summarization is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Text_Summarizer/blob/main/LICENSE) file for more information.
 
 
 
