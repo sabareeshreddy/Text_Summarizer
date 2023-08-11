@@ -28,11 +28,12 @@ git clone https://github.com/sabareeshreddy/Text_Summarizer
 Once you have the source code, create a virtual environment using the following command,
 `python3 -m venv venv`
 
-Enter the virtual environment and install dependancies using `pip install -r requirements.txt`.
+Enter the virtual environment and install dependencies using `pip install -r requirements.txt`.
+
+Once all the dependencies are completed you need to create a `.env` file in the root directory of the project. \
+The .env file should contain the same variables as `.env.example`.
 
 Your installation is completed and you are all set to use the API.
-
-
 
 
 ## Contributing
@@ -44,10 +45,7 @@ Also, thanks for contributing to Open-source!
 
 ## License
 
-Text_Summarization is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Gist/blob/master/LICENSE) file for more information.
+Text_Summarization is under The MIT License. Read the [LICENSE](https://github.com/sabareeshreddy/Text_Summarizer/LICENSE) file for more information.
 
 
 
-Once all the dependencies for both the front-end and back-end is completed you need to create a `.env` file in the root directory of the project. \
-The .env file should contain the same variables as `.env.example`.
-Once that is done, launch the back-end server. To do this, run the following command in the root directory of the project.
